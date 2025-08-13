@@ -25,7 +25,7 @@ class FirstPage extends StatelessWidget {
           Column(
             children: [
               Text('Dr.Sayed Abdul-Aziz',style: TextStyle(color: Colors.blue,fontSize: 20,fontWeight: FontWeight.bold),)
-              ,Text('Eya Specail',style: TextStyle(),)
+              ,Text('Eyaaa Specail',style: TextStyle(),)
             ],
           )
         ],
